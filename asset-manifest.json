@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-simple-card/static/css/main.f71bcc69.chunk.css",
+    "main.js": "/react-simple-card/static/js/main.2ff9a29e.chunk.js",
+    "main.js.map": "/react-simple-card/static/js/main.2ff9a29e.chunk.js.map",
+    "runtime~main.js": "/react-simple-card/static/js/runtime~main.00467590.js",
+    "runtime~main.js.map": "/react-simple-card/static/js/runtime~main.00467590.js.map",
+    "static/js/2.c272f57a.chunk.js": "/react-simple-card/static/js/2.c272f57a.chunk.js",
+    "static/js/2.c272f57a.chunk.js.map": "/react-simple-card/static/js/2.c272f57a.chunk.js.map",
+    "index.html": "/react-simple-card/index.html",
+    "precache-manifest.9d4758935916edcabd3222f52db2bcea.js": "/react-simple-card/precache-manifest.9d4758935916edcabd3222f52db2bcea.js",
+    "service-worker.js": "/react-simple-card/service-worker.js",
+    "static/css/main.f71bcc69.chunk.css.map": "/react-simple-card/static/css/main.f71bcc69.chunk.css.map"
+  }
+}
